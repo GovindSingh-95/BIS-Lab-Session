@@ -14,9 +14,9 @@ It covers algorithms and models inspired by nature such as evolutionary strategi
 - Other bio-inspired optimization techniques
 
 ## 🛠 Tools Used
-- Python / Java / MATLAB (depending on your course requirements)
-- Jupyter Notebook (if using Python)
-- Any additional libraries (e.g., `numpy`, `matplotlib`, `scikit-learn`)
+- Python 
+- Jupyter Notebook
+- numpy,matplotlib,scikit-learn
 
 ## 🧑‍🏫 Course Information
 - **Course**: Bio-Inspired Systems
